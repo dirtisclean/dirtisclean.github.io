@@ -1,0 +1,31 @@
+body {
+  background-color:darkviolet;
+  border-style:double;
+  border-color:azure;
+    text-align:center
+}
+p {
+    font-size:16px;
+  color:ghostwhite
+}
+
+img{
+ border-radius:10px;
+  border-width:medium;
+  border-style:solid;
+  border-color:lightblue;
+  margin:12px
+}
+
+.dinki{
+ color:aqua; 
+  font-style:oblique;
+}
+.boxer{
+ color:darkorange; 
+  font-style:oblique;
+}
+.link{
+ color:azure 
+}
+h1{
