@@ -1,0 +1,24 @@
+body {
+  background: grey;
+  text-align:center;
+}
+p {
+  color: azure;
+  font-style:oblique
+}
+h1 {
+  font-weight: bold;
+  color:azure;
+  border-color:aqua;
+  border-style:dotted;
+  border-radius:80px;
+  text-align: center;
+}
+h4 {
+ color:azure; 
+}
+img{
+ border-radius: 20px;
+   border-style:solid;
+     border-color:aqua
+}
